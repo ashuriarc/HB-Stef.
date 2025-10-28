@@ -28,14 +28,8 @@ Porque algunas personas merecen algo más que palabras: merecen un universo hech
 
 ---
 
-## 💡 Extras
-- 🎁 Al final encontrarás una pequeña animación sorpresa inspirada en **Jeongyeon (TWICE)**, su artista favorita.  
-- 🕯️ Cada transición fue diseñada para sentirse como un suspiro entre recuerdos.
-
----
-
 ## 🌌 Créditos
-Hecho con ☕ + 💻 por **Ashley Bueno Intriago**  
+Hecho con ☕ + 💻 por **ashuriarc**  
 > *Porque los regalos más sinceros no se compran, se crean.*  
 
 ---
