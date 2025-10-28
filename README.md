@@ -17,13 +17,12 @@ Porque algunas personas merecen algo más que palabras: merecen un universo hech
 - 🪄 **HTML5** — estructura y esencia  
 - 🎨 **CSS3** — colores, brillos y un fondo que respira  
 - ⚙️ **JavaScript** — para dar vida al libro interactivo  
-- 🌷 **Amor, café y recuerdos** — ingredientes secretos 💫  
 
 ---
 
 ## 📖 Cómo verlo
 1. Abre este link:  
-   👉 [https://tuusuario.github.io/cumple-estef/](https://tuusuario.github.io/cumple-estef/) *(reemplaza con tu URL real)*  
+   👉 [https://tuusuario.github.io/HB-Stef./](https://ashuriarc.github.io/HB-Stef./) 
 2. Usa las flechas `←` y `→` para pasar las páginas.  
 3. Llega hasta el **capítulo 6** y... déjate envolver 💜  
 
